@@ -1,0 +1,26 @@
+.nav {
+    background-color: var(--dark-active-color);
+    margin-bottom: 100px;
+}
+
+.ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 10px 0 10px;
+ }
+
+.NavLink {
+    font-size: 20px;
+    color: var(--light-grey-color);
+}
+
+.NavLink:hover {
+    text-decoration: none;
+    color: var(--active-color);
+}
+
+.logo {
+    width: 2rem;
+    height: 2rem;
+}

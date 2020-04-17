@@ -1,0 +1,33 @@
+.table {
+    border: 1px solid var(--light-grey-color);
+    border-radius: .25rem;
+    margin-bottom: 30px;
+}
+
+.row:hover {
+    cursor: pointer;
+    background-color: var(--opacity-active-color);
+}
+
+.row:last-of-type {
+    margin-bottom: 0;
+}
+
+.thead {
+    background-color: var(--light-grey-color);
+}
+
+.columnSort:hover {
+    cursor: pointer;
+    color: var(--active-color);
+}
+
+.column:hover {
+    cursor: default;
+}
+
+
+
+
+
+

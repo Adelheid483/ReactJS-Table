@@ -1,0 +1,4 @@
+.error {
+    color: var(--warning-color);
+    text-align: center;
+}

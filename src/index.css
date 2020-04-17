@@ -1,0 +1,25 @@
+:root {
+    --active-color: #007bff;
+    --opacity-active-color: rgba(0, 123, 255, 0.2);
+    --dark-active-color: #141829;
+    --light-grey-color: #dee2e6;
+    --dark-grey-color: #6c757d;
+    --warning-color: #c50;
+
+
+}
+
+.global_h1 {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+p, h1, h2, h3, h4, h5, h6, td, th {
+    color: var(--dark-active-color);
+}
+
+
+
+
+
+
